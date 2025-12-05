@@ -10,7 +10,7 @@
 
 <!-- QUICK LINKS -->
 <p align="center">
-  <a href="https://nishankuprety.github.io" target="_blank">
+  <a href="https://nishankuprety.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/nishank-uprety" target="_blank">
