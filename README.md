@@ -71,11 +71,6 @@
   🔗 `TensorFlow` · `Keras` · `OpenCV` · `GANs`  
   - Repo: [github.com/nishankuprety/detection-and-inpainting-of-SR-regions-in-colpscopic-images](https://github.com/nishankuprety/detection-and-inpainting-of-SR-regions-in-colpscopic-images)
 
-- 🍽️ **Downtown Restro Website**  
-  Full-stack restaurant site with QR-based digital menu and local hosting.  
-  🔗 `React` · `Node.js` · `PHP` · `MySQL`  
-  - Repo: [github.com/nishankuprety/Downtown](https://github.com/nishankuprety/Downtown)
-
 ---
 
 ## 📊 GitHub Stats
